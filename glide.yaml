@@ -1,0 +1,3 @@
+package: github.com/bt/go-reverse-http-shell
+import:
+- package: gopkg.in/yaml.v2

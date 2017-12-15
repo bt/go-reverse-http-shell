@@ -1,0 +1,23 @@
+# Vendor files
+vendor/*/
+
+# VIM swap files
+*.swp
+*.swo
+
+# OS-dependent
+.DS_Store
+*~
+
+# IntelliJ
+*.iml
+/.idea
+
+# Executables
+client.exe
+client
+server.exe
+server
+
+# Configuration files
+config.yml

